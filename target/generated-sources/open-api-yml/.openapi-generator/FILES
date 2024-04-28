@@ -1,0 +1,7 @@
+org/openapi/quarkus/user_template_open_api_yml/api/UsersApi.java
+org/openapi/quarkus/user_template_open_api_yml/api/auth/AuthenticationPropagationHeadersFactory.java
+org/openapi/quarkus/user_template_open_api_yml/api/auth/CompositeAuthenticationProvider.java
+org/openapi/quarkus/user_template_open_api_yml/model/CreateUserRequest.java
+org/openapi/quarkus/user_template_open_api_yml/model/ProblemDetails.java
+org/openapi/quarkus/user_template_open_api_yml/model/UpdateUserRequest.java
+org/openapi/quarkus/user_template_open_api_yml/model/User.java
