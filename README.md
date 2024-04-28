@@ -81,12 +81,12 @@ After getting a cup of coffee, you'll be able to run this executable directly:
 > 
 ### Misc commands
 - run postgres
-  LC_ALL="C" /opt/homebrew/opt/postgresql@15/bin/postgres -D /opt/homebrew/var/postgresql@15
+  > LC_ALL="C" /opt/homebrew/opt/postgresql@15/bin/postgres -D /opt/homebrew/var/postgresql@15
 - start postgres
-   brew services start postgresql@15
+  > brew services start postgresql@15
 - Kill process
-   netstat -anv | grep 8080
-   sudo kill -15 95216
+  > netstat -anv | grep 8080
+  > sudo kill -15 95216
 
 
 
